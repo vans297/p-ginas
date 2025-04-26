@@ -1,0 +1,34 @@
+<!DOCTYPE hmtl>
+<html>
+<head>
+<title>Vania Paola Fernandez Bonilla</title>
+<link rel="stylesheet" href="C:\Users\NITRO 5\Desktop\PaginaWebtenorio-vania\Site.css">
+</head>
+<body>
+ <div class="main-content">
+  <aside>
+    <div class="profile">
+     <img src="C:/Users/NITRO 5/Desktop/PaginaWebtenorio-vania/fotovania.jpg" id="photo-profile" class="my-photo"/>
+    <div>
+      <h1 class="title">Vania Paola Fernandez Bonilla</h1>
+      <div class="badge-profile">Estudiante</div>
+      <div class="social">
+         <a><i>Whatsapp</i></a>
+         <a><i>Instagram</i></a>
+         <a><i>Twitter</i></a>
+      </div>
+     </div>
+     <div class="info">
+       <ul class="contacts-block">
+         <li class="contacts-block-item">Septiembre 29, 2007</li>
+         <li class="contacts-block-item">Puebla, Mexico</li>
+         <li class="contacts-block-item"><a href="vansferbon@gmail.com">vansferbon@gmail.com</a></li>
+         <li class="contacts-block-item">+52 (557) 896 3831</li>
+         <li class="contacts-block-item"> <a href="skipe:skipe-example"> _vania__29 </a></li>
+       </ul>
+       <a class="btn" href="#">downloand CV</a>
+    </div>
+   </div>
+  </aside>
+ </body>
+</html>
